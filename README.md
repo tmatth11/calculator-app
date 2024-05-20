@@ -1,5 +1,7 @@
 # Calculator App
 
+![image](https://github.com/tmatth11/calculator-app/assets/141206635/c020adee-21a0-4501-acfe-f02334e0aeef)
+
 Are you interested in the style of the calculator app on iOS devices? Then this web-based calculator is for you! It functions just like a normal calculator, but it can accept more than one operation before the total is calculated by pressing the equals button. This was built using vanilla HTML, CSS, and JavaScript. It is also mobile-friendly!
 
 ## Features
